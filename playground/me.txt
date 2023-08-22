@@ -1,8 +1,2 @@
 
 
-
-{{#user}}
-Name: Jamil Ahmed
-Skills: python, django, C++, data structure, algorithm, Mysql
-Email: jamilahmediiuc@gmail.com
-{{/user}}
